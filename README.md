@@ -7,10 +7,10 @@ HTML - (Hypertext Markup Language) Defines the structure and content of a webpag
 
 
 Projects:
-Curriculum Outline
-Cat Photo App
-Recipe Page
-Book Store Page
+Curriculum Outline,
+Cat Photo App,
+Recipe Page,
+Book Store Page,
 
 
 
