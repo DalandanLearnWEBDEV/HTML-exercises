@@ -11,7 +11,8 @@ Curriculum Outline,
 Cat Photo App,
 Recipe Page,
 Book Store Page,
-Travel Agency Page
+Travel Agency Page,
+Audio Video Player
 
 
 
