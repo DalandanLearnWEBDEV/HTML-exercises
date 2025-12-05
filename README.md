@@ -12,7 +12,8 @@ Cat Photo App,
 Recipe Page,
 Book Store Page,
 Travel Agency Page,
-Audio Video Player
+Audio Video Player,
+Heart Icon + Github Icon
 
 
 
