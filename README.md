@@ -16,7 +16,8 @@ Audio Video Player,
 Heart Icon + Github Icon,
 Video Iframe,
 Video Compilation Page,
-List of Major Web Browsers
+List of Major Web Browsers,
+Quincy's Job Tips Page
 
 
 
