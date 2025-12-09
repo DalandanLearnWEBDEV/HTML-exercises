@@ -15,7 +15,8 @@ Travel Agency Page,
 Audio Video Player,
 Heart Icon + Github Icon,
 Video Iframe,
-Video Compilation Page
+Video Compilation Page,
+List of Major Web Browsers
 
 
 
