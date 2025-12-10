@@ -17,7 +17,8 @@ Heart Icon + Github Icon,
 Video Iframe,
 Video Compilation Page,
 List of Major Web Browsers,
-Quincy's Job Tips Page
+Quincy's Job Tips Page,
+Cat Blog Page
 
 
 
