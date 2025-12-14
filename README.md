@@ -19,7 +19,8 @@ Video Compilation Page,
 List of Major Web Browsers,
 Quincy's Job Tips Page,
 Cat Blog Page,
-Event Hub
+Event Hub,
+Hotel Feedback Form
 
 
 
