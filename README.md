@@ -22,7 +22,8 @@ Cat Blog Page,
 Event Hub,
 Hotel Feedback Form,
 Final Exam Table,
-Book Catalog Table 
+Book Catalog Table,
+Survey Form 
 
 
 
