@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Survey Form</title>
+</head>
+
+<body>
+    <header>
+        <h1 id="title">Mobile Legends Survey Form</h1>
+        <p id="description">Mobile Legends: Bang Bang, commonly referred to simply as Mobile Legends, is a multiplayer
+            online battle arena game developed and published by Moonton, a subsidiary of ByteDance. Since its release in
+            2016, MLBB has been free-to-play and is monetized through purchasable character and cosmetic customization.
+        </p>
+    </header>
+
+    <main>
+        <form id="survey-form" action="#" method="POST">
+                <label for="name" id="name-label">Name</label>
+                <input type="text" id="name" name="name" placeholder="Enter your name" required><br>
+                <label for="email" id="email-label">Email</label>
+                <input type="email" id="email" name="email" required placeholder="example@email.com" placeholder="Enter your email"><br>
+                <label for="number" id="number-label">Age(optional)</label>
+                <input type="number" id="number" name="number" min="12" max="80" placeholder="Age"><br><br>
+
+                <label for="dropdown">Which option describes your role?</label><br><br>
+                <select name="dropdown" id="dropdown">
+                    <option selected value="current-role">Select Current Role</option>
+                    <option value="marksman">Marksman</option>
+                    <option value="jungler">Jungler</option>
+                    <option value="tank">Tank</option>
+                    <option value="fighter">Fighter</option>
+                    <option value="support">Support</option>
+                </select><br><br>
+
+                <label for="gender">Select your gender:</label><br><br>
+                <input type="radio" id="male" name="gender" value="male">
+                <label for="male">Male</label>
+
+                <input type="radio" id="female" name="gender" value="female">
+                <label for="female">Female</label>
+
+                <input type="radio" id="other" name="gender" value="other">
+                <label for="other">Other</label><br><br>
+                
+                <label for="device">What is your device</label>
+                <select name="device" id="device">
+                    <option value="samsung">Samsung</option>
+                    <option value="iphone">Iphone</option>
+                    <option value="xiaomi">Xiaomi</option>
+                    <option value="vivo">Vivo</option>
+                    <option selected value="tulfone">Tulfone</option>
+                </select><br><br>
+
+                <label>Select group you want to join (Select 1 group only)</label><br><br>
+                <input type="checkbox" id="evos" name="evos" value="evos">
+                <label for="evos">Evos</label>
+
+                <input type="checkbox" id="nxpe" name="nxpe" value="nxpe">
+                <label for="nxpe">NXPE</label>
+
+                <input type="checkbox" id="onic-ph" name="onic-ph" value="onic-ph">
+                <label for="onic-ph">Onic Ph</label>
+
+                <input type="checkbox" id="black-list" name="black-list" value="black-list">
+                <label for="black-list">Black List</label>
+
+                <input type="checkbox" id="smart-omega" name="smart-omega" value="smart-omega">
+                <label for="smart-omega">Smart Omega</label>
+
+                <input type="checkbox" id="team-liquid" name="team-liquid" value="team-liquid">
+                <label for="team-liquid">Team Liquid</label>
+
+                <input type="checkbox" id="ap-bren" name="ap-bren" value="ap-bren">
+                <label for="ap-bren">AP Bren</label>
+
+                <input type="checkbox" id="aurora" name="aurora" value="aurora">
+                <label for="aurora">Aurora</label>
+
+                <input type="checkbox" id="tnc" name="tnc" value="tnc">
+                <label for="tnc">TNC</label>
+
+                <input type="checkbox" id="twisted-mind" name="twisted-mind" value="twisted-mind">
+                <label for="twisted-mind">Twisted Mind</label>
+
+                <input type="checkbox" id="twisted-mind" name="twisted-mind" value="twisted-mind">
+                <label for="twisted-mind">Twisted Mind</label><br><br>
+
+                <label for="comments">Any comments or suggestions</label><br><br>
+                <textarea name="comments" id="comments" cols="20" rows="2" placeholder="Enter your comment...."></textarea><br>
+                <button id="submit" type="submit">Submit</button> 
+            </form>
+        
+    </main>
+</body>
+
+</html>
