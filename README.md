@@ -24,7 +24,8 @@ Hotel Feedback Form,
 Final Exam Table,
 Book Catalog Table,
 Survey Form,
-Tech Conference Schedule Table 
+Tech Conference Schedule Table,
+Accessible Audio Controller 
 
 
 
