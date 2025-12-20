@@ -25,7 +25,8 @@ Final Exam Table,
 Book Catalog Table,
 Survey Form,
 Tech Conference Schedule Table,
-Accessible Audio Controller 
+Accessible Audio Controller,
+Checkout Page 
 
 
 
