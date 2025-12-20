@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Checkout Page</title>
+</head>
+
+<body>
+    <main>
+        <h1>Checkout</h1>
+        <section>
+            <h2>Your Cart</h2>
+            <img src="https://cdn.freecodecamp.org/curriculum/labs/cube.jpg" alt="rubics cube in white background">
+            <p>Left-handed spoon</p>
+            <p>$29.99</p>
+        </section>
+
+        <section>
+            <h2>Payment Information</h2>
+            <form action="#" method="POST">
+                <label aria-hidden="true" for="card-name">Cardholder Name <span aria-hidden="true">*</span></label>
+                <input type="text" id="card-name" name="card-name" required><br>
+                <label aria-hidden="true" for="card-number">Card Number <span aria-hidden="true">*</span></label>
+                <input aria-describedby="card-number-help" type="text" id="card-number" name="card-number" required>
+
+                <p id="card-number-help" >Please enter your 16-digit card number without spaces or dashes.</p>
+                <label for="expiry-date">Expiry Date <span aria-hidden="true">*</span></label>
+                <input type="text" id="expiry-date" placeholder="MM/YY"><br>
+                <label for="cvv">CVV <span>*</span aria-hidden="true"></label>
+                <input type="text" id="cvv">
+                <button type="submit">Place Holder</button>
+            </form>
+        </section>
+    </main>
+</body>
+
+</html>
