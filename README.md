@@ -43,3 +43,4 @@ The video source in The Walking Dead Videos found on https://www.youtube.com/emb
 The image use in Event Hub found on https://www.goodfon.com/games/wallpaper-crossfire-nemesis-devushki-oruzhie.html https://duniagames.co.id/discover/article/crossfire-legends-pre-registration/en
 The Books I use in Book Catalog Table found on https://oceanofpdf.com/
 The movie poster in Movie Review Page found on https://www.goodfon.com/films/wallpaper-the-maze-runner-dylan-o-brien.html
+The video source I use in Multimedia Player found on https://cdn.freecodecamp.org/curriculum/labs/what-is-the-map-method-and-how-does-it-work.mp4
