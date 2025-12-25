@@ -27,7 +27,8 @@ Survey Form,
 Tech Conference Schedule Table,
 Accessible Audio Controller,
 Checkout Page,
-Moview Review Page
+Moview Review Page,
+Multimedia Player
 
 
 
