@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/b4ceb37473.js" crossorigin="anonymous"></script>
+    <title>Contacts</title>
+</head>
+
+<body>
+    <headeer>
+        <h2><i class="fa-solid fa-address-book"></i>
+            Contact
+        </h2>
+        <nav role="nav">
+            <ul>
+                <li><a href="index.html">Go to Homepage</a></li>
+            </ul>
+        </nav>
+    </headeer>
+
+    <main>
+        <section>
+            <form action="#" method="POST">
+                <fieldset>
+                    <legend></legend>
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required placeholder="Your Name"><br><br>
+
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required placeholder="Your Email"> <br><br>
+
+                    <label for="message">Message:</label>
+                    <textarea name="message" id="message" placeholder="Your Message" rows="4" cols="27" minlength="10"
+                        maxlength="50"></textarea><br><br>
+
+                    <p id="submit-form">Submit</p>
+                    <button type="submit" aria-labelledby="submit-form">
+                        <i class="fa-solid fa-paper-plane fa-sm " aria-hidden="true"></i>
+                    </button>
+
+                    <p id="reset-form">Reset</p>
+                    <button type="reset" aria-labelledby="reset-form">
+                        <i class="fa-solid fa-rotate-left fa-sm" aria-hidden="true" ></i>
+                    </button>
+                </fieldset>
+            </form>
+        </section>
+    </main>
+</body>
+
+</html>
