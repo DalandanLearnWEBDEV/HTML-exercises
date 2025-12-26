@@ -28,7 +28,8 @@ Tech Conference Schedule Table,
 Accessible Audio Controller,
 Checkout Page,
 Moview Review Page,
-Multimedia Player
+Multimedia Player,
+Final Project
 
 
 
